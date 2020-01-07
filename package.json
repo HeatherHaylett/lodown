@@ -1,6 +1,6 @@
 {
   "name": "lodown-heatherhaylett",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "functional programming library project",
   "main": "index.js",
   "directories": {

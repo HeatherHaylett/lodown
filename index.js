@@ -265,7 +265,7 @@ function partition(array, func){
 module.exports.partition = partition;
 
 /**
- * map:
+ * map: Returns an array of elements that have been altered by the given function.
  * 
  * @param {collection}: Loops through a collection, either an array or an 
  * object, and the given function acts upon each element before returning a new
